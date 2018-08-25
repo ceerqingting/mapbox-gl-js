@@ -1,8 +1,7 @@
 /*---
-title: Set a point after Geocoder result
+title: 设置一个点在地理编码器的结果上
 description: >-
-  Listen to the `geocoder.input` event from the [Geocoder plugin](https://github.com/mapbox/mapbox-gl-geocoder) and
-  place a point on the coordinate results.
+  监听 [mapbox-gl-geocoder](https://github.com/mapbox/mapbox-gl-geocoder) 的 result 事件，放置一个点在地理位置结果上.
 tags:
   - geocoder
 pathname: /mapbox-gl-js/example/point-from-geocoder-result/
